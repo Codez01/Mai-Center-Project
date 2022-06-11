@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "mai-center",
+    "slug": "snack-65e1f877-5b1d-4422-b411-35efcd78606e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.codez01.snack65e1f8775b1d4422b41135efcd78606e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
